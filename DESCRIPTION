@@ -12,7 +12,8 @@ RoxygenNote: 7.3.1
 biocViews: GeneExpression, NetworkInference, Network, Software
 Imports: entropy
 Suggests: 
-    knitr,
+    knitr, 
+    BiocStyle,
     rmarkdown,
     testthat (>= 3.0.0),
     SummarizedExperiment
