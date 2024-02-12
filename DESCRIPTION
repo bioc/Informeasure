@@ -16,7 +16,8 @@ NeedsCompilation: no
 RoxygenNote: 7.1.0
 Imports: entropy
 Suggests: 
-    knitr,
+    knitr, 
+    BiocStyle,
     rmarkdown,
     testthat,
     SummarizedExperiment

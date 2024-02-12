@@ -4,8 +4,9 @@ title: "Informeasure: a tool to quantify nonlinear dependence between variables 
 author: //\\ Chu PAN //\\ College of Computer Science and Electronic Engineering, Hunan University
 date: '`r Sys.Date()`'
 output:
-    BiocStyle::html_document:
-      toc: true
+    BiocStyle::html_document: default
+    
+package: Informeasure
 
 vignette: >
   %\VignetteIndexEntry{Informeasure: a tool to quantify nonlinear dependence between variables in biological regulatory networks from an information theory perspective}
