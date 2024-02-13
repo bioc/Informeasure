@@ -11,9 +11,8 @@ package: Informeasure
 vignette: >
   %\VignetteIndexEntry{Informeasure: a tool to quantify nonlinear dependence between variables in biological regulatory networks from an information theory perspective}
   %\VignettePackage{Informeasure} 
-  %\VignetteEngine{knitr::rmarkdown}
-  % \usepackage[utf8]{inputenc} 
   %\VignetteEncoding{UTF-8}
+  %\VignetteEngine{knitr::rmarkdown}
 ---
 
 ```{r, include = FALSE}
