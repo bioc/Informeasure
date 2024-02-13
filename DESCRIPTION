@@ -15,6 +15,7 @@ Suggests:
     knitr, 
     BiocStyle,
     rmarkdown,
+    markdown,
     testthat (>= 3.0.0),
     SummarizedExperiment
 VignetteBuilder: knitr
